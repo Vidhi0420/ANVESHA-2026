@@ -1,3 +1,4 @@
+# Technical Affairs Development Task
 # Anvesha 2026 — IIITDM Kancheepuram Tech Fest
 
 Single-page landing page for Anvesha 2026, the annual intra-college technical festival of IIITDM Kancheepuram. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no build step.
